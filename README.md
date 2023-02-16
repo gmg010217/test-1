@@ -28,3 +28,5 @@
 [구글](https://google.com, "검색 사이트")
 
 ![이미지연습](https://m.blog.naver.com/ohminho/220662888889?view=img_2)
+
+![아기고양이](./images/이미지.jpeg)
