@@ -9,4 +9,14 @@
 > The information manger from hell.
 >> git means "global information tracker"
 
-한 줄짜리 소스 코드는 'function add(x, y) {return x + y;}' 처럼 사용합니다.
+소스 코드 삽입하기
+
+'''javascript
+<script>
+  var now = new Data();
+  var display = new.toLocaleTimeString();
+  document.write("현재 시각은 " + display);
+  </scirpt>
+  '''
+  
+  코드 입려 끝!
