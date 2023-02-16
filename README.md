@@ -27,4 +27,4 @@
 
 [구글](https://google.com, "검색 사이트")
 
-![이미지연습](https://m.blog.naver.com/ohminho/220662888889)
+![이미지연습](https://m.blog.naver.com/ohminho/220662888889?view=img_2)
